@@ -19,7 +19,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Enabled"] = true,
         ["Whitelist Username"] = {"boboboytopian","ChaidenBarnard2","AndrianEdmund5","CodyAyhner443","jojoganteng309","Weni26Rahayu","Sis568ari","Rama96Pradana",},
         ["Category Fish"] = {
-                    "Secret",
+                    "",
             -- {Tier = "Mythic", Variant = "Stone"}, -- Tier + Variant
         },
         ["Fish Name"] = {
@@ -28,7 +28,7 @@ _G.FishItConfig = _G.FishItConfig or {
             -- {Variant = "Leviathan Rage"}, -- Variant Only
         },
         ["Item Name"] = {
-            "",
+            "Evolved Enchant Stone",
         },
     },
     ["Farm Coin Only"] = {
