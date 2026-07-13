@@ -3,7 +3,7 @@ _G.FishItConfig = _G.FishItConfig or {
         ["Auto Perfect"] = false,
         ["Random Result"] = false,
 
-        ["Auto Favorite"] = true,
+        ["Auto Favorite"] = false,
         ["Auto Unfavorite"] = false,
         ["Fish Name"] = {
             "Sacred Guardian Squid",
@@ -39,7 +39,7 @@ _G.FishItConfig = _G.FishItConfig or {
             -- {Variant = "Leviathan Rage"}, -- Variant Only
         },
         ["Item Name"] = {
-            "Runic Enchant Stone","Evolved Enchant Stone",
+            "Runic Enchant Stone",
         },
     },
     ["Selling"] = {
