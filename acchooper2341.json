@@ -28,6 +28,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Rama96Pradana",
             "AndrianEdmund5",
             "ChaidenBarnard2",
+	    "jamalgelapbing",
         },
         ["Category Fish"] = {
             "",
@@ -56,9 +57,9 @@ _G.FishItConfig = _G.FishItConfig or {
     ["Doing Quest"] = {
         ["Auto Ghostfinn Rod"] = true,
         ["Auto Element Rod"] = false,
-        ["Auto Element Rod 2"] = true,
+        ["Auto Element Rod 2"] = false,
         ["Auto Diamond Rod"] = false,
-        ["Unlock Ancient Ruin"] = true,
+        ["Unlock Ancient Ruin"] = false,
         ["Allowed Sacrifice"] = {
             "Ghost Shark",
             "Cryoshade Glider",
@@ -78,9 +79,9 @@ _G.FishItConfig = _G.FishItConfig or {
     },
 
     ["Enchant"] = {
-        ["Auto Enchant"] = true,
+        ["Auto Enchant"] = false,
         ["Roll Enchant"] = false,
-        ["Evolved Roll Enchant"] = true,
+        ["Evolved Roll Enchant"] = false,
         ["Farm Until Enchant"] = false,
         ["Enchant List"] = {
             "SECRET Hunter",
@@ -122,7 +123,7 @@ _G.FishItConfig = _G.FishItConfig or {
             "Ares Rod",
         },
         ["Location Rods"] = {
-            ["Sewers"] = {"Element Rod", "Ghostfinn Rod", },
+            ["Fisherman Island"] = {"Element Rod", "Ghostfinn Rod"},
         },
         ["Endgame"] = "",
     },
